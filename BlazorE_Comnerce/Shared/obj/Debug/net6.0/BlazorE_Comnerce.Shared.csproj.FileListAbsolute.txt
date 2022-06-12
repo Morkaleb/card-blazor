@@ -1,0 +1,12 @@
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\bin\Debug\net6.0\BlazorE_Comnerce.Shared.deps.json
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\bin\Debug\net6.0\BlazorE_Comnerce.Shared.dll
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\bin\Debug\net6.0\BlazorE_Comnerce.Shared.pdb
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\BlazorE_Comnerce.Shared.csproj.AssemblyReference.cache
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\BlazorE_Comnerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\BlazorE_Comnerce.Shared.AssemblyInfoInputs.cache
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\BlazorE_Comnerce.Shared.AssemblyInfo.cs
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\BlazorE_Comnerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\BlazorE_Comnerce.Shared.dll
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\refint\BlazorE_Comnerce.Shared.dll
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\BlazorE_Comnerce.Shared.pdb
+C:\Users\Morka\Documents\Repos\Learning\BlazorE_Comnerce\BlazorE_Comnerce\Shared\obj\Debug\net6.0\ref\BlazorE_Comnerce.Shared.dll

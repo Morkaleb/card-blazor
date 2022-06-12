@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Server\\BlazorE_Comnerce.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Client\\BlazorE_Comnerce.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Client\\BlazorE_Comnerce.Client.csproj",
+        "projectName": "BlazorE_Comnerce.Client",
+        "projectPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Client\\BlazorE_Comnerce.Client.csproj",
+        "packagesPath": "C:\\Users\\Morka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Morka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\BlazorE_Comnerce.Shared.csproj": {
+                "projectPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\BlazorE_Comnerce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Server\\BlazorE_Comnerce.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Server\\BlazorE_Comnerce.Server.csproj",
+        "projectName": "BlazorE_Comnerce.Server",
+        "projectPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Server\\BlazorE_Comnerce.Server.csproj",
+        "packagesPath": "C:\\Users\\Morka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Morka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Client\\BlazorE_Comnerce.Client.csproj": {
+                "projectPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Client\\BlazorE_Comnerce.Client.csproj"
+              },
+              "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\BlazorE_Comnerce.Shared.csproj": {
+                "projectPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\BlazorE_Comnerce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\BlazorE_Comnerce.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\BlazorE_Comnerce.Shared.csproj",
+        "projectName": "BlazorE_Comnerce.Shared",
+        "projectPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\BlazorE_Comnerce.Shared.csproj",
+        "packagesPath": "C:\\Users\\Morka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Morka\\Documents\\Repos\\Learning\\BlazorE_Comnerce\\BlazorE_Comnerce\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Morka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
