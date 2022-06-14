@@ -200,15 +200,15 @@
       "mscorlib.dll": "sha256-ghlJNtzzYlKIliGPuf0A0Yu6dmLycSx3F9uyeddFb\/g=",
       "netstandard.dll": "sha256-qpOz\/RBwhlIYfaE2GDEmjiproxkvSf2b9GeqHxvH+lg=",
       "System.Private.CoreLib.dll": "sha256-sfzSZ3YKC2rpF77TVOKLuPgQag93QXr9U4AUc9d\/LKA=",
-      "BlazorE_Comnerce.Shared.dll": "sha256-PKBP5kd\/jbqTPRlD5poqNUdJ8A50MpMS65pRDMf1IFk=",
-      "BlazorE_Comnerce.Client.dll": "sha256-+xp6KUWm2NjWRoiToKx1pVXTsqXD5ObyDxr+QedVnTI="
+      "BlazorE_Comnerce.Shared.dll": "sha256-M6UyqCR+iHD8MXmMBXtm\/zUEsoxGIR1+27EBN+twrEs=",
+      "BlazorE_Comnerce.Client.dll": "sha256-M6K3BVP3xyUgK068pP7cV7Fl6FL7mU4T1wlCFsIXLoI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorE_Comnerce.Shared.pdb": "sha256-WDIcSRSvmFRWMVsG6Bh0926oeVkeQYTYAWRqD6NHqms=",
-      "BlazorE_Comnerce.Client.pdb": "sha256-MZ8Exfk92284t\/Jv\/Mece9D+pqTowI8GGsTvXOsv5Us="
+      "BlazorE_Comnerce.Shared.pdb": "sha256-cCGkCrn2wyrxxxMiBjxBtiL9Q9dTN2yRMRZjEM+js7U=",
+      "BlazorE_Comnerce.Client.pdb": "sha256-vpmC\/jER19kTlV9wzvSO7J5YNQLcLWeHT1cmXHCa1GM="
     },
     "runtime": {
       "dotnet.6.0.5.9tfkfhf5ik.js": "sha256-783uOt0jgblQfP6Yz5TJeuW2xxtl6UHZQPngZtCz79U=",

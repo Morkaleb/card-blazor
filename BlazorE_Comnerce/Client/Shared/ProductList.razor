@@ -8,11 +8,13 @@
                 <a href="#">
                     <img src="@product.ImageUrl" class="media-img" alt="@product.Title">
                 </a>
+               
             </div>
             <div class="media-body">
                 <a href="3">
                     <h4 class="mb-0">@product.Title</h4>
                 </a>
+               
                 <p>@product.Description</p>
                 <h5 class="price">
                     $@product.Price
@@ -27,8 +29,8 @@
 
     protected override async Task OnInitializedAsync()
     {
-        var result =  await _client.GetFromJsonAsync<List<Product>>("Api/Product");
-        if (result != null)
-            Products = result;
+        var result =  await _client.GetFromJsonAsync<ServiceResponse<List<Product>>>("Api/Product");
+        if (result != null && result.Data != null)
+            Products = result.Data;
     }
 }
